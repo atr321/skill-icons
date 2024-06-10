@@ -141,6 +141,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `bun`        |       <img src="./assets/bun-auto.svg" width="48">       |
 |         `c`         |          <img src="./assets/c.svg" width="48">           |
 |         `ca`        |       <img src="./assets/capture.svg" width="48">        |
+|       `canva`       |      <img src="./assets/canva-auto.svg" width="48">      |
 |         `cs`        |          <img src="./assets/cs.svg" width="48">          |
 |        `cpp`        |         <img src="./assets/cpp.svg" width="48">          |
 |         `cc`        |     <img src="./assets/creativecloud.svg" width="48">    |
@@ -150,6 +151,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `chatgpt`      |  <img src="./assets/chatgpt-auto.svg" width="48">        |
 |       `chrome`      |      <img src="./assets/chrome-auto.svg" width="48">     |
 |      `chromium`     |      <img src="./assets/chromium-auto.svg" width="48">   |
+|      `circleci`     |      <img src="./assets/circleci-auto.svg" width="48">   |
 |       `clion`       |      <img src="./assets/clion-auto.svg" width="48">      |
 |      `clojure`      |     <img src="./assets/clojure-auto.svg" width="48">     |
 |     `cloudflare`    |   <img src="./assets/cloudflare-auto.svg" width="48">    |
@@ -168,6 +170,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `desmos`       |        <img src="./assets/desmos.svg" width="48">        |
 |       `devto`       |      <img src="./assets/devto-auto.svg" width="48">      |
 |         `dn`        |       <img src="./assets/dimension.svg" width="48">      |
+|      `directus`     |       <img src="./assets/directus.svg" width="48">       |
 |      `discord`      |       <img src="./assets/discord.svg" width="48">        |
 |        `bots`       |     <img src="./assets/discordbots.svg" width="48">      |
 |    `digitalocean`   |  <img src="./assets/digitalocean-light.svg" width="48">  |
@@ -209,6 +212,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `ganache`      |     <img src="./assets/ganache-auto.svg" width="48">     |
 |       `gatsby`      |        <img src="./assets/gatsby.svg" width="48">        |
 |        `gcp`        |       <img src="./assets/gcp-auto.svg" width="48">       |
+|       `gemini`      |      <img src="./assets/gemini-auto.svg" width="48">     |
 |        `git`        |         <img src="./assets/git-auto.svg" width="48">     |
 |       `github`      |     <img src="./assets/github-auto.svg" width="48">      |
 |   `githubactions`   |  <img src="./assets/githubactions-auto.svg" width="48">  |
@@ -238,6 +242,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `heroku`      |        <img src="./assets/heroku.svg" width="48">        |
 |     `hibernate`     |    <img src="./assets/hibernate-auto.svg" width="48">    |
 |         `hc`        |         <img src="./assets/holyc.svg" width="48">        |
+|        `hono`       |       <img src="./assets/hono-auto.svg" width="48">      |
 |        `html`       |         <img src="./assets/html.svg" width="48">         |
 |        `htmx`       |      <img src="./assets/htmx-auto.svg" width="48">       |
 |      `hydrogen`     |      <img src="./assets/hydrogen-auto.svg" width="48">   |
@@ -257,15 +262,18 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `jenkins`      |     <img src="./assets/jenkins-auto.svg" width="48">     |
 |        `jest`       |         <img src="./assets/jest.svg" width="48">         |
 |        `jira`       |      <img src="./assets/jira-auto.svg" width="48">       |
+|       `joomla`      |      <img src="./assets/joomla-auto.svg" width="48">     |
 |       `jquery`      |        <img src="./assets/jquery.svg" width="48">        |
 |       `julia`       |        <img src="./assets/julia-auto.svg" width="48">    |
 |      `kakoune`      |       <img src="./assets/kakoune-auto.svg" width="48">   |
 |       `kafka`       |        <img src="./assets/kafka.svg" width="48">         |
+|       `kaggle`      |     <img src="./assets/kaggle-auto.svg" width="48">      |
 |        `kali`       |      <img src="./assets/kali-auto.svg" width="48">       |
 |        `kde`        |       <img src="./assets/kde-auto.svg" width="48">       |
 |       `kotlin`      |     <img src="./assets/kotlin-auto.svg" width="48">      |
 |        `ktor`       |      <img src="./assets/ktor-auto.svg" width="48">       |
 |     `kubernetes`    |      <img src="./assets/kubernetes.svg" width="48">      |
+|     `langchain`     |    <img src="./assets/langchain-auto.svg" width="48">    |
 |      `laravel`      |     <img src="./assets/laravel-auto.svg" width="48">     |
 |       `latex`       |      <img src="./assets/latex-auto.svg" width="48">      |
 |      `leetcode`     |    <img src="./assets/leetcode-auto.svg" width="48">     |
@@ -333,6 +341,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `php`        |       <img src="./assets/php-auto.svg" width="48">       |
 |      `phpstorm`     |    <img src="./assets/phpstorm-auto.svg" width="48">     |
 |      `picocss`      |    <img src="./assets/picocss-auto.svg" width="48">      |
+|      `pinecone`     |    <img src="./assets/pinecone-auto.svg" width="48">     |
 |       `pinia`       |      <img src="./assets/pinia-auto.svg" width="48">      |
 |        `pkl`        |       <img src="./assets/pkl-auto.svg" width="48">       |
 |       `plan9`       |      <img src="./assets/plan9-auto.svg" width="48">      |
@@ -393,6 +402,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `stackoverflow`   |  <img src="./assets/stackoverflow-auto.svg" width="48">  |
 |       `stock`       |         <img src="./assets/stock.svg" width="48">        |
 |     `storybook`     |     <img src="./assets/storybook-auto.svg" width="48">   |
+|     `streamlit`     |     <img src="./assets/streamlit-auto.svg" width="48">   |
 |  `styledcomponents` |   <img src="./assets/styledcomponents.svg" width="48">   |
 |      `sublime`      |     <img src="./assets/sublime-auto.svg" width="48">     |
 |      `supabase`     |    <img src="./assets/supabase-auto.svg" width="48">     |
@@ -400,6 +410,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `scala`       |      <img src="./assets/scala-auto.svg" width="48">      |
 |        `scipy`      |       <img src="./assets/scipy-auto.svg" width="48">     |
 |      `scratch`      |       <img src="./assets/scratch.svg" width="48">        |
+|      `seaborn`      |     <img src="./assets/seaborn-auto.svg" width="48">     |
 |      `sklearn`      |   <img src="./assets/scikitlearn-auto.svg" width="48">   |
 |      `selenium`     |       <img src="./assets/selenium.svg" width="48">       |
 |       `sentry`      |        <img src="./assets/sentry.svg" width="48">        |
@@ -419,6 +430,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `symfony`      |     <img src="./assets/symfony-auto.svg" width="48">     |
 |      `tableau`      |      <img src="./assets/tableau-auto.svg" width="48">    |
 |      `tailwind`     |   <img src="./assets/tailwindcss-auto.svg" width="48">   |
+|     `tallyprime`    |      <img src="./assets/tallyprime.svg" width="48">      |
 |       `tauri`       |      <img src="./assets/tauri-auto.svg" width="48">      |
 |       `teams`       |      <img src="./assets/teams-auto.svg" width="48">      |
 |     `tensorflow`    |   <img src="./assets/tensorflow-auto.svg" width="48">    |
